@@ -13,9 +13,9 @@
 ### A data set based on weather observations from 18 different weather stations across Europe, which contain data ranging from the late 1800s to 2022. The records were made almost every day with values such as temperature, wind speed, snow, global radiation, and more.
 ### The data was collected by the European Climate Assessment & Data Set project.
 ### [Weather Data Set Links](https://s3.amazonaws.com/coach-courses-us/public/courses/da-spec-ml/Scripts/A1/Dataset-weather-prediction-dataset-processed.csv)
-### [Pleasant Data Set](https://images.careerfoundry.com/public/courses/da-spec-ml/Scripts/A1/Dataset-Answers-Weather_Prediction_Pleasant_Weather.csv)
+### [Pleasant Data Set Link](https://images.careerfoundry.com/public/courses/da-spec-ml/Scripts/A1/Dataset-Answers-Weather_Prediction_Pleasant_Weather.csv)
 
 ## Tools
-### Python
-### PowerPoint
+### 1. Python
+### 2. PowerPoint
 
