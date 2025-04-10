@@ -19,4 +19,4 @@
 ### 1. Python
 ### 2. PowerPoint
 
-## A video recorded presentation of the final report for this project. [CLICK HERE]((https://vimeo.com/1074153340/e88554df92))
+## A video recorded presentation of the final report for this project. [CLICK HERE](https://vimeo.com/1074153340/e88554df92)
